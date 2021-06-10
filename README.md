@@ -1,9 +1,7 @@
 # JSpaceFight-Java-Project #
 
-JSpaceFight-Java.zip:
-
 * src: source code for java MVC project;
-* JSpaceFight.jar: to execute java project.
+* dist/JSpaceFight.jar: to execute java project.
 
 Screenshots: </br>
 \
