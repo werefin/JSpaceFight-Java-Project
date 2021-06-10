@@ -1,4 +1,4 @@
-# JSpaceFight-Java-Project #
+# JSpaceFight: JFC Swing Project #
 
 * src: source code for java MVC project -> Main.java to launch JFC Swing application;
 * dist/JSpaceFight.jar: to execute java project.
