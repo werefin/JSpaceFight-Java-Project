@@ -1,5 +1,8 @@
 # JSpaceFight: JFC Swing Project
 
+## About this project
+Programming graphical interfaces and mobile devices (UniPG): final exam.
+
 ## Project structure
 * src: source code for java MVC project (Main.java to launch JFC Swing application);
 * dist/JSpaceFight.jar: to execute the jar.
